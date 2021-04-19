@@ -1,0 +1,16 @@
+login_server_id: ragnarok1
+login_server_pw: ragnarok1
+ipban_db_id: ragnarok1
+ipban_db_pw: ragnarok1
+char_server_id: ragnarok1
+char_server_pw: ragnarok1
+map_server_id: ragnarok1
+map_server_pw: ragnarok1
+log_db_id: ragnarok1
+log_db_pw: ragnarok1
+
+login_server_db: rathena1
+ipban_db_db: rathena1
+char_server_db: rathena1
+map_server_db: rathena1
+log_db_db: rathena_logs1
