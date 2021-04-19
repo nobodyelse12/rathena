@@ -1,0 +1,5 @@
+userid: username
+passwd: password
+char_ip: 127.0.0.2
+login_ip: 127.0.0.2
+server_name: rAthena
